@@ -1,0 +1,118 @@
+{
+    "cotidiano": [
+        "Você já bocejou só de ver alguém bocejando.",
+        "Você já esqueceu onde colocou as chaves.",
+        "Você já apertou o botão do elevador várias vezes.",
+        "Você já digitou algo e apagou tudo depois.",
+        "Você já tomou café sem precisar.",
+        "Você já tropeçou sozinho.",
+        "Você já esqueceu a toalha no banho.",
+        "Você já perdeu tempo no celular.",
+        "Você já fingiu que entendeu algo.",
+        "Você já derrubou água sem querer."
+    ],
+    "existencial": [
+        "Você já olhou pro espelho sem se reconhecer direito.",
+        "Você já pensou que a vida é estranha.",
+        "Você já se perguntou 'e se tudo for um sonho?'.",
+        "Você já se sentiu fora do lugar.",
+        "Você já pensou demais e não chegou a lugar nenhum.",
+        "Você já se perguntou quem é.",
+        "Você já pensou demais à toa.",
+        "Você já quis sumir por um dia.",
+        "Você já sentiu um vazio do nada.",
+        "Você já pensou 'nada faz sentido'."
+    ],
+    "absurdas": [
+        "Você já foi um cacto em outra vida.",
+        "Você já brigou com o travesseiro dormindo.",
+        "Você já salvou o mundo e ninguém lembra.",
+        "Você já dançou com um urso num sonho confuso.",
+        "Você já ensinou matemática para um dragão.",
+        "Você já conversou com uma parede.",
+        "Você já duelou com um pão no sonho.",
+        "Você já foi abduzido e voltou.",
+        "Você já caiu do céu em outra vida.",
+        "Você já foi um peixe filósofo."
+    ],
+    "infancia": [
+        "Você já acreditou que as nuvens eram feitas de algodão.",
+        "Você já fingiu que o chão era lava",
+        "Você já tentou voar pulando do sofá.",
+        "Você já tomou banho de chuva por diversão.",
+        "Você já acreditou que a lua te seguia.",
+        "Você já teve medo do escuro.",
+        "Você já acreditou em Papai Noel.",
+        "Você já quis morar num desenho.",
+        "Você já brincou com caixa de papelão.",
+        "Você já comeu terra por curiosidade."
+    ],
+    "vergonha": [
+        "Você já acenou pra alguém que não era com você.",
+        "Você já chamou a professora de mãe.",
+        "Você já respondeu 'você também' fora de contexto.",
+        "Você já caiu em público e fingiu costume.",
+        "Você já riu em momento errado."
+    ],
+    "tecnologia": [
+        "Você já procurou o controle estando na mão.",
+        "Você já ficou apertando F5 na área de trabalho sem motivo.",
+        "Você já falou 'alô' antes de perceber que era mensagem."
+    ],
+    "amizade": [
+        "Você já mandou mensagem errada pro grupo.",
+        "Você já riu tanto que chorou com um amigo.",
+        "Você já criou piadas internas que ninguém entende.",
+        "Você já se olhou com um amigo e entendeu tudo.",
+        "Você já foi ignorado no grupo e fingiu que não ligou."
+    ],
+    "comida": [
+        "Você já bebeu água hoje",
+        "Você já queimou a língua de ansiedade.",
+        "Você já comeu algo caído dizendo 'só foram 5 segundos'.",
+        "Você já fingiu que sabia cozinhar.",
+        "Você já guardou comida boa pra depois."
+    ],
+    "sono": [
+        "Você já fingiu que não tava dormindo.",
+        "Você já acordou sem saber onde estava.",
+        "Você já sonhou que tava caindo e deu um pulo.",
+        "Você já dormiu no meio de uma conversa.",
+        "Você já brigou com o despertador."
+    ],
+    "trabalho": [
+        "Você já fingiu estar ocupado.",
+        "Você já respondeu 'bom dia' às 17h.",
+        "Você já mandou e-mail sem anexo.",
+        "Você já abriu uma aba só pra parecer produtivo.",
+        "Você já teve reunião que podia ser um e-mail."
+    ],
+    "relacionamentos": [
+        "Você já fingiu que não viu a mensagem.",
+        "Você já revisou a mensagem 10 vezes antes de enviar.",
+        "Você já stalkeou e depois se arrependeu.",
+        "Você já respondeu 'tudo bem' querendo dizer 'nada bem'.",
+        "Você já ignorou pra ser notado."
+    ],
+    "família": [
+        "Você já ouviu sermão durante o almoço.",
+        "Você já fingiu estar dormindo pra não ajudar.",
+        "Você já riu em reunião de família sem saber do quê.",
+        "Você já brigou por controle remoto.",
+        "Você já escondeu coisa da sua mãe."
+    ],
+    "acidentes": [
+        "Você já bateu o dedinho no canto da mesa.",
+        "Você já escorregou no banheiro.",
+        "Você já derrubou o celular na cara.",
+        "Você já queimou a boca com pizza quente.",
+        "Você já chutou algo achando que era leve."
+    ],
+    "tempo": [
+        "Você já disse 'só mais 5 minutos'.",
+        "Você já achou que era sexta, mas era quarta.",
+        "Você já acordou cedo no fim de semana sem motivo.",
+        "Você já perdeu a noção da hora.",
+        "Você já olhou o relógio e esqueceu que horas eram."
+    ]
+}
