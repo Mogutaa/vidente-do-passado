@@ -1,7 +1,11 @@
 # Vidente do Passado
 
+
 *"Prevendo o passado, porque o futuro é muito fácil!"*  
 Um projeto humorístico que revela "verdades ocultas" do seu passado com arte ASCII, animações retrô e previsões absurdamente engraçadas.
+
+
+Acesse o vidente [clicando aqui](https://videntedopassado.streamlit.app/)
 
 ---
 
